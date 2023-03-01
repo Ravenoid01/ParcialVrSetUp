@@ -18451,6 +18451,7 @@ GameObject:
   - component: {fileID: 1897162205}
   - component: {fileID: 1897162204}
   - component: {fileID: 1897162203}
+  - component: {fileID: 1897162207}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -18524,6 +18525,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.81124806, y: 0.5620291, z: 0.055232108}
   m_Center: {x: 0.007616008, y: 0, z: 0.3746097}
+--- !u!65 &1897162207
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897162201}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.8917259, y: 0.019773722, z: 1.0782799}
+  m_Center: {x: -0.004708202, y: -0.2749672, z: 0.32259816}
 --- !u!1001 &1900723974
 PrefabInstance:
   m_ObjectHideFlags: 0
